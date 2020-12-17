@@ -9,3 +9,7 @@ git init
 3. Enviar arquivos adicionados para o repositorio:
    git add <arquivo>
    git commit -m ("msg") -> Add ponto na "história"
+
+4) Verificar mudanças feitas no projeto:
+   git status
+   git log

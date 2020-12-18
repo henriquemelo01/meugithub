@@ -15,9 +15,3 @@ git init
    git log
 
 Obs: Para saír do git log, basta pressionar q
-
-5. Começar nova funcionalidade no projeto sem estragar o que ja foi criado.
-   git branch <name>
-
-- Mudar para nova funcionalidade:
-  git checkout <name>

@@ -66,3 +66,5 @@ Following this steps we create a local repository.
 
 - Log Branchs:
   git branch
+
+Obs: Terminal: :q = quit

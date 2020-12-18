@@ -1,6 +1,6 @@
 # Git Guide
 
-<h1> Mainly git commans: </h1>
+<h2> Mainly git commans: </h2>
 
 - Create repository:
   git init
